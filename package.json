@@ -1,0 +1,46 @@
+{
+  "name": "engine-assistant",
+  "version": "1.0.0",
+  "description": "智能微秘书Engine 1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Leo_chen",
+  "license": "MIT",
+  "keywords": [
+    "wechaty1.x",
+    "wechaty",
+    "mongoose",
+    "微信机器人",
+    "微信助手",
+    "chatgpt",
+    "微秘书",
+    "智能机器人",
+    "对话机器人",
+    "node",
+    "js",
+    "chagpt",
+    "chagpt3.5",
+    "chagpt3.5-turbo"
+  ],
+  "engines": {
+    "node": ">=16",
+    "npm": ">=7"
+  },
+  "dependencies": {
+    "wechaty": "^1.20.2",
+    "wechaty-puppet": "^1.21.1",
+    "wechaty-puppet-engine": "^1.0.9",
+    "wechaty-web-panel": "^1.4.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leochen-g/wechat-assistant-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leochen-g/wechat-assistant-pro/issues"
+  },
+  "homepage": "https://github.com/leochen-g/wechat-assistant-pro#readme"
+}
