@@ -133,32 +133,6 @@ hook包下载：[Dll文件和注入器](https://github.com/leochen-g/puppet-engi
 
 参见[http://wechat.aibotk.com/docs/question](http://wechat.aibotk.com/docs/question)
 
-## 面板预览
-
-![](./doc/img/index.png)
-![](./doc/img/roomasync.png)
-![](./doc/img/everyday.png)
-![](./doc/img/event.png)
-![](./doc/img/material.png)
-
-## 功能预览
-
-![](./doc/img/news.jpeg)
-
-个人定时与群定时任务
-
-![](./doc/img/func.jpeg)
-
-群消息同步
-
-<img src="./doc/img/async.png" width="300">
-
-群合影
-
-<img src="./doc/img/group.jpeg" width="300">
-
-
-
 ## 免责声明
 
 本软件依据github上开源项目 Wechaty
